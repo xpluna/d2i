@@ -1,6 +1,6 @@
 # d2i
 
-## <hr> A minimalist extension of the statistics module for operations on discrete series. `Only a function` <hr>
+## A minimalist extension of the statistics module for operations on discrete series. `Only a function` <hr>
 
 ### Code
 ```py
